@@ -18,7 +18,8 @@
   "environment": "*",
   "entrypoints": {
     "stationapi:event_bus": [
-      "io.github.oreactko.stationapicopper.events.init.InitListener"
+      "io.github.oreactko.stationapicopper.events.init.InitListener",
+      "io.github.oreactko.stationapicopper.events.item.ItemListener"
     ],
     "stationapi:event_bus_client": [],
     "stationapi:event_bus_server": []

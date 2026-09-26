@@ -1,1 +1,1 @@
-# @ is a shorthand for the current mod id, which is stationapicopper. E.g: tile.@.redclay.name
+item.@.copper_ingot.name=Copper Ingot
