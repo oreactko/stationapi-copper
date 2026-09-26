@@ -19,7 +19,8 @@
   "entrypoints": {
     "stationapi:event_bus": [
       "io.github.oreactko.stationapicopper.events.init.InitListener",
-      "io.github.oreactko.stationapicopper.events.item.ItemListener"
+      "io.github.oreactko.stationapicopper.events.item.ItemListener",
+      "io.github.oreactko.stationapicopper.events.block.BlockListener"
     ],
     "stationapi:event_bus_client": [],
     "stationapi:event_bus_server": []

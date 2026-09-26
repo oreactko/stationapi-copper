@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "stationapicopper:copper_block"
+    }
+  ],
+  "result": {
+    "item": "stationapicopper:copper_ingot",
+    "count": 9
+  }
+}
