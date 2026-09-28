@@ -1,0 +1,4 @@
+{
+  "_comment": "The most useless file in this world, but it is required for the block to be rendered in the inventory,while it is impossible to obtain item without RetroCommand.",
+  "parent": "stationapicopper:block/copper_ore"
+}

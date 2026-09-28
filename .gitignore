@@ -31,5 +31,6 @@ bin/
 # fabric
 
 run/*
+run.ps1
 # Remove the following line to remove server.properties from your project.
 !server.properties
