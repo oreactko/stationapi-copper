@@ -13,11 +13,17 @@ public class ItemListener {
 
     public static Item COPPER_INGOT;
 
+    public static Item RAW_COPPER;
+
     @EventListener
     public void registerItems(ItemRegistryEvent event) {
         COPPER_INGOT = new TemplateItem(
                 NAMESPACE.id("copper_ingot")).setTranslationKey(
                         NAMESPACE,
                         "copper_ingot");
+        RAW_COPPER = new TemplateItem(
+                NAMESPACE.id("raw_copper")).setTranslationKey(
+                        NAMESPACE,
+                        "raw_copper");
     }
 }

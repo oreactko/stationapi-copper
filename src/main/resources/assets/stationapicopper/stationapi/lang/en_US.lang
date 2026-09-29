@@ -1,3 +1,5 @@
 item.@.copper_ingot.name=Copper Ingot
+item.@.raw_copper.name=Raw Copper
 tile.@.copper_block.name=Copper Block
 tile.@.copper_ore.name=Copper Ore
+tile.@.raw_copper_block.name=Raw Copper Block

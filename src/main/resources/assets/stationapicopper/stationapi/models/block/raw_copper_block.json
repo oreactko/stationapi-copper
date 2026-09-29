@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stationapicopper:block/raw_copper_block"
+  }
+}

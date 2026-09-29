@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "stationapicopper:raw_copper"
+  },
+  "result": {
+    "item": "stationapicopper:copper_ingot"
+  }
+}

@@ -3,11 +3,11 @@
   "pattern": ["###", "###", "###"],
   "key": {
     "#": {
-      "item": "stationapicopper:copper_ingot"
+      "item": "stationapicopper:raw_copper"
     }
   },
   "result": {
-    "item": "stationapicopper:copper_block",
+    "item": "stationapicopper:raw_copper_block",
     "count": 1
   }
 }

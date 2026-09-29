@@ -6,7 +6,6 @@ import io.github.oreactko.stationapicopper.events.item.ItemListener;
 import java.util.Random;
 
 import net.minecraft.block.material.Material;
-import net.minecraft.item.Item;
 
 public class CopperOre extends TemplateBlock {
     public CopperOre(Identifier identifier) {
@@ -16,7 +15,7 @@ public class CopperOre extends TemplateBlock {
 
     @Override
     public int getDroppedItemId(int blockMeta, Random random) {
-        return ItemListener.COPPER_INGOT.id; // So werid.
+        return ItemListener.RAW_COPPER.id; // So werid.
     }
 
     @Override

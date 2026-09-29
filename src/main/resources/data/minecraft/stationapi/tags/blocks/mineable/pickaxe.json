@@ -1,4 +1,8 @@
 {
   "replace": false,
-  "values": ["stationapicopper:copper_ore", "stationapicopper:copper_block"]
+  "values": [
+    "stationapicopper:copper_ore",
+    "stationapicopper:copper_block",
+    "stationapicopper:raw_copper_block"
+  ]
 }
