@@ -23,7 +23,7 @@ Babric and Station API are separate from modern Fabric versions.
    release for Beta 1.7.3 to the instance's `mods` folder. The project was
    developed against Station API `2.0.0-alpha.6.4`.
 4. Download the latest Copper jar from the project's
-   [GitHub Releases](https://github.com/oreactko/stationapi-copper/releases) page or from [Modrinth](https://modrinth.com/mod/stationapi-copper).
+   [GitHub Releases](https://github.com/oreactko/stationapi-copper/releases) page or from [Modrinth](https://modrinth.com/mod/stationapi-copper) or [Github Actions](https://github.com/oreactko/stationapi-copper/actions/workflows/gradle-debug.yml) for the latest development build.
 5. Copy the downloaded `stationapi_copper-*.jar` into the same `mods` folder or
    use the "Add Mod" feature of your launcher to add it to the instance.
 6. Launch the instance.
